@@ -1,8 +1,3 @@
-;Final Project
-;Course: Simulation
-;Name: Hao Zhang
-;Professor: Dr. Carter
-
 ;This project is simulate problem about the motion of two springs and two masses. Runing this project help people tell how the position of two masses change.
 ;In this project, the most hardest part for me is to use linear differential equation to find the equation between time, ticks, and the position of mass1 and mass2, which are x1 and x2 in project.
 ;With the help from professor and reading material about runge-kutta method, I understood part of idea of this method; however, it is still hard for me to use this method to solve the two
